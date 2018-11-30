@@ -1,0 +1,13 @@
+﻿  main.c
+  Stack.c
+  Postfix.c
+c:\users\김도연\documents\visual studio 2015\projects\hw10-1\hw10-1\postfix.c(83): warning C4013: 'AppIO_out_showToken'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\김도연\documents\visual studio 2015\projects\hw10-1\hw10-1\postfix.c(84): warning C4013: 'AppIO_out_bottomOfStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\김도연\documents\visual studio 2015\projects\hw10-1\hw10-1\postfix.c(87): warning C4013: 'AppIO_out_element'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\김도연\documents\visual studio 2015\projects\hw10-1\hw10-1\postfix.c(89): warning C4013: 'AppIO_out_topOfStack'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\김도연\documents\visual studio 2015\projects\hw10-1\hw10-1\postfix.c(90): warning C4013: 'AppIO_out_newLine'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  AppIO.c
+  AppController.c
+  코드를 생성하고 있습니다...
+  HW10-1.vcxproj -> c:\users\김도연\documents\visual studio 2015\Projects\HW10-1\Debug\HW10-1.exe
+  HW10-1.vcxproj -> c:\users\김도연\documents\visual studio 2015\Projects\HW10-1\Debug\HW10-1.pdb (Full PDB)
